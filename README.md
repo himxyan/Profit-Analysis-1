@@ -8,3 +8,5 @@
 # Tools Used
 - Excel: Data cleaning, regression analysis, statistical interpretation.
 - Power BI: Data visualization, dashboard creation, trend analysis.
+# Dashboard
+<img width="1291" height="723" alt="Profit Analysis_Dasbhoard" src="https://github.com/user-attachments/assets/e3ba4735-44d0-4e13-92b7-30b01c410d30" />
